@@ -1,0 +1,93 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Katowice 2019 Team Stickers",
+      "publisher": "Johannes Mols",
+      "tray_image_file": "thumbnail.png",
+      "publisher_email":"johannes.mols@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "astralis.webp"
+        },
+        {
+          "image_file": "avangar.webp"
+        },
+        {
+          "image_file": "big.webp"
+        },
+        {
+          "image_file": "cloud9.webp"
+        },
+        {
+          "image_file": "complexity.webp"
+        },
+        {
+          "image_file": "ence.webp"
+        },
+        {
+          "image_file": "esl.webp"
+        },
+        {
+          "image_file": "faze.webp"
+        },
+        {
+          "image_file": "fnatic.webp"
+        },
+        {
+          "image_file": "furia.webp"
+        },
+        {
+          "image_file": "g2.webp"
+        },
+        {
+          "image_file": "grayhound.webp"
+        },
+        {
+          "image_file": "hellraisers.webp"
+        },
+        {
+          "image_file": "liquid.webp"
+        },
+        {
+          "image_file": "mibr.webp"
+        },
+        {
+          "image_file": "navi.webp"
+        },
+        {
+          "image_file": "nip.webp"
+        },
+        {
+          "image_file": "nrg.webp"
+        },
+        {
+          "image_file": "renegades.webp"
+        },
+        {
+          "image_file": "spirit.webp"
+        },
+        {
+          "image_file": "tyloo.webp"
+        },
+        {
+          "image_file": "vegasquadron.webp"
+        },
+        {
+          "image_file": "vici.webp"
+        },
+        {
+          "image_file": "vitality.webp"
+        },
+        {
+          "image_file": "winstrike.webp"
+        }
+      ]
+    }
+  ]
+}
